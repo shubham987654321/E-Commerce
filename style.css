@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 27, 2020, 1:32:47 PM
+    Author     : dellb
+*/
+
+
+.banner-image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(image/intro-bg_1.jpg) no-repeat center center;
+   
+  
+    
+     margin-left: auto;
+     margin-right: auto;
+    
+    background-size: cover;
+    
+   
+   
+}
+.inner-banner-image{
+    position: relative;
+    padding-top: 12%;
+     width:80%;
+     height: auto;
+/*    margin:auto;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    /* overflow: hidden; */
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+    
+}
+
+.row_margin
+{
+    margin-top: 5px;
+    margin-top: 2px;
+}
+a
+{
+    color:#fff;
+}
+.box
+{
+    margin-top:20px;
+    padding-top:20px;
+    padding-bottom:30px;
+    background-color: gray;
+}
+
+footer{
+    /* padding: 10px 0px;
+    background-color: #101010;
+    color:#9d9d9d;   */
+    padding: 10px 0px;
+    background-color: #101010;
+    color: antiquewhite;
+    position: relative;
+    margin-top:200px;
+
+}
+     
+      
